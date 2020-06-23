@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="6" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{2D9CB86B-6DB8-4AA0-8183-EA606D09033A}" ParallelWalk="True">
+				<TypeInfo Item0="{53F49363-DB39-4870-8DDD-042FAEFF0CA1}" />
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Empower" Key="{B40A0058-A797-40AC-9BCC-8B188D474AF7}" ParallelWalk="True">
+						<TypeInfo Item0="{BE04F892-2D15-4415-814B-F41BF3D36D5F}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="Empower" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlgLogin" Key="{61BB1E77-C34D-4A89-9E46-077330CEF304}" ParallelWalk="True">
+								<Image FileName="1559868619" Left="0" Top="0" Right="366" Bottom="281" />
+								<TypeInfo Item0="{C49436FA-9504-46E5-B2EF-E605E8E14A77}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="#32770" Type="5" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value PropertyType="0" Value="Login" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnHelp" Key="{B3FBF0AF-5A2C-4002-AD31-DDCCF9C655DF}" ParallelWalk="True">
+										<Image FileName="1559868619" Left="278" Top="247" Right="353" Bottom="270" />
+										<TypeInfo Item0="{1B2EB54D-1C06-457C-9587-3BF8E457F923}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="Button" Type="5" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value PropertyType="0" Value="Help" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnCancel" Key="{EF89E108-D73C-46CA-A269-F64D701B0F1E}" ParallelWalk="True">
+										<Image FileName="1559868619" Left="102" Top="247" Right="177" Bottom="270" />
+										<TypeInfo Item0="{1B2EB54D-1C06-457C-9587-3BF8E457F923}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="Button" Type="5" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value PropertyType="0" Value="Cancel" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnOK" Key="{E5CBE1E2-281B-4DF4-94AF-5005AEF15BF2}" ParallelWalk="True">
+										<Image FileName="1559868619" Left="15" Top="247" Right="90" Bottom="270" />
+										<TypeInfo Item0="{1B2EB54D-1C06-457C-9587-3BF8E457F923}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="Button" Type="5" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value PropertyType="0" Value="OK" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnAdvanced" Key="{88B59E09-7D34-4E88-8DF2-2622D368B3C9}" ParallelWalk="True">
+										<Image FileName="1559868619" Left="191" Top="247" Right="266" Bottom="270" />
+										<TypeInfo Item0="{1B2EB54D-1C06-457C-9587-3BF8E457F923}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="Button" Type="5" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value PropertyType="0" Value="Advanced &gt;&gt;" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="ComboBox" Key="{BF4D44EE-B536-4564-B483-B630863786CD}" ParallelWalk="True">
+										<Image FileName="1559868619" Left="164" Top="111" Right="329" Bottom="132" />
+										<TypeInfo Item0="{657991AD-8775-491A-B723-72EFEE368104}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="ComboBox" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Edit" Key="{E25EF95B-DE62-4A36-988B-DF8A4ADEE879}" ParallelWalk="True">
+										<Image FileName="1559868619" Left="164" Top="81" Right="329" Bottom="101" />
+										<TypeInfo Item0="{80A00763-38F9-4B6E-93C9-3423243BA5CF}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="Edit" Type="5" />
+											</Property>
+											<Property Name="Index">
+												<Value PropertyType="0" Value="2" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Edit2" Key="{868517EF-4E91-451D-ADC0-24BB733B2A45}" ParallelWalk="True">
+										<Image FileName="1559868619" Left="164" Top="50" Right="329" Bottom="70" />
+										<TypeInfo Item0="{80A00763-38F9-4B6E-93C9-3423243BA5CF}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="Edit" Type="5" />
+											</Property>
+											<Property Name="Index">
+												<Value PropertyType="0" Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg" Key="{320966A3-2DBF-47B8-9287-16D7F0A37087}" ParallelWalk="True">
+								<Image FileName="1586227563" Left="0" Top="0" Right="516" Bottom="531" />
+								<TypeInfo Item0="{C49436FA-9504-46E5-B2EF-E605E8E14A77}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="#32770" Type="5" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value PropertyType="0" Value="Empower&#32;&#32;on&#32;&#32;Local&#32;&#32;as&#32;&#32;System/Administrator" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Empower" Owner="{B40A0058-A797-40AC-9BCC-8B188D474AF7}">
+			<Child Name="Empower_LoginDialog" Owner="{61BB1E77-C34D-4A89-9E46-077330CEF304}">
+				<Child Name="Help_Button" Owner="{B3FBF0AF-5A2C-4002-AD31-DDCCF9C655DF}" />
+				<Child Name="Cancel_Button" Owner="{EF89E108-D73C-46CA-A269-F64D701B0F1E}" />
+				<Child Name="OK_Button" Owner="{E5CBE1E2-281B-4DF4-94AF-5005AEF15BF2}" />
+				<Child Name="Advanced_Button" Owner="{88B59E09-7D34-4E88-8DF2-2622D368B3C9}" />
+				<Child Name="ComboBox" Owner="{BF4D44EE-B536-4564-B483-B630863786CD}" />
+				<Child Name="Password_EditField" Owner="{E25EF95B-DE62-4A36-988B-DF8A4ADEE879}" />
+				<Child Name="Username_EditField" Owner="{868517EF-4E91-451D-ADC0-24BB733B2A45}" />
+			</Child>
+			<Child Name="Empower_MainDialog" Owner="{320966A3-2DBF-47B8-9287-16D7F0A37087}" />
+		</Child>
+	</LogicalNodes>
+</Root>
